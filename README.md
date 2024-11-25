@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0213-house-robber-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0213-house-robber-ii) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0063-unique-paths-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2089-maximum-matrix-sum) |

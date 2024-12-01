@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0213-house-robber-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Matrix
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1972-rotating-the-box) |
 ## Greedy
 |  |
@@ -85,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->

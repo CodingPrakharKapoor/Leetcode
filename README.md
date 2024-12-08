@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1972-rotating-the-box](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0213-house-robber-ii) |
+| [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
@@ -108,11 +111,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String Matching
 |  |

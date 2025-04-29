@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3427-special-array-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Dynamic Programming
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Sliding Window
+|  |
+| ------- |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->

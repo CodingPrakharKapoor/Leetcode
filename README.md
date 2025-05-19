@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |
 ## Memoization
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |
 ## String Matching
 |  |
 | ------- |

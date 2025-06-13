@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0070-climbing-stairs) |
+| [0398-random-pick-index](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0398-random-pick-index) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |
 ## Memoization
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0242-valid-anagram) |
+| [0398-random-pick-index](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0398-random-pick-index) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->

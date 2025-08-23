@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1972-rotating-the-box](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1972-rotating-the-box) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0011-container-with-most-water) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |

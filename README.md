@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0035-search-insert-position) |
 | [0063-unique-paths-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0213-house-robber-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |

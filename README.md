@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Matrix
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3427-special-array-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String Matching
 |  |
 | ------- |
@@ -217,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Recursion
 |  |
 | ------- |

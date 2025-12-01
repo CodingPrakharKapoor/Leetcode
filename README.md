@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1972-rotating-the-box) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0011-container-with-most-water) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3427-special-array-ii) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2164-two-best-non-overlapping-events](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |

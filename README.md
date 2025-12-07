@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0398-random-pick-index](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0398-random-pick-index) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3336-water-bottles-ii) |

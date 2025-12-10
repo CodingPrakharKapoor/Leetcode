@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Memoization
 |  |
@@ -246,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+## Brainteaser
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->

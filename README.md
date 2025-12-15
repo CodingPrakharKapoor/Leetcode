@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Memoization
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3336-water-bottles-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -258,5 +261,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Number Theory
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->

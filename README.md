@@ -277,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1970-last-day-where-you-can-still-cross](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

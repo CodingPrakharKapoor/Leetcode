@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0213-house-robber-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0398-random-pick-index](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0398-random-pick-index) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0063-unique-paths-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1970-last-day-where-you-can-still-cross) |

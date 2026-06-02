@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0398-random-pick-index](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0398-random-pick-index) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0459-repeated-substring-pattern) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |

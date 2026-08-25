@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3623-count-number-of-trapezoids-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Matrix
 |  |
 | ------- |

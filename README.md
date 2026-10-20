@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3242-design-neighbor-sum-service](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3321-type-of-triangle](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3321-type-of-triangle) |
 | [3427-special-array-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1590-make-sum-divisible-by-p](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3242-design-neighbor-sum-service](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3623-count-number-of-trapezoids-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3242-design-neighbor-sum-service](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Two Pointers
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2232-adding-spaces-to-a-string](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [3242-design-neighbor-sum-service](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3336-water-bottles-ii](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [3242-design-neighbor-sum-service](https://github.com/CodingPrakharKapoor/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Data Stream
 |  |
 | ------- |
